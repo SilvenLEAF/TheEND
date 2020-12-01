@@ -1,6 +1,39 @@
 export default [
   
   {
+    title: "GamifyHouseWorksAPP",
+    
+    
+    links: {
+      live: "https://SilvenLeafGamifyHouseWorks.herokuapp.com",
+      sourceCode: "https://github.com/SilvenLEAF/GamifyHouseWorksAPP"
+    },
+
+    images: {
+      image3d: "/images/projects/GamifyHouseWorks3d.png",
+      image2d: "/images/projects/GamifyHouseWorks2d.png"
+    },
+
+
+    technology: [ "NodeJS", "ExpressJS", "MongoDB", "REST Api", "OAUTH2.0", "PassportJS", "Nodemailer", "Crypto module", "React", "Materialize", "SASS", "Hooks and Context API", "ServiceWorkers(PWA)", "Lighthouse Audit", "git", "CLI", "Chrome-Dev-Tools" ],
+
+
+
+    description: "Gamify your boring chores and super boring houseworks. An app having CRUD, oauth2.0, Login with Google Github Linkedin, Role Based Auth, Demo Login system, 2 way auth, email verification, password reset, PWA (Downloadable App), If opened offline, can play an awesome game and many many many more.",
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+  {
     title: "URLShortener",
     
     

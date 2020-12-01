@@ -1,5 +1,5 @@
 export default [
-  {
+  {      
     name: "DomainChecker",
     link: "#DomainChecker",
     image: "/images/projects/DomainChecker2d.png",
@@ -11,6 +11,10 @@ export default [
     name: "URLShortener",
     link: "#URLShortener",
     image: "/images/projects/URLShortener2d.png",
+  },{
+    name: "GamifyHouseWorksAPP",
+    link: "#GamifyHouseWorksAPP",
+    image: "/images/projects/GamifyHouseWorks2d.png",
   },{
     name: "MusicAPP",
     link: "#MusicAPP",
