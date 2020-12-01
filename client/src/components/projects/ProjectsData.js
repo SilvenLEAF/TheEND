@@ -88,7 +88,7 @@ export default [
 
 
 
-    description: "Check if your domain is available.",
+    description: "Get IP Address of any Domain and also Check if your domain is already taken.",
   },
 
 
