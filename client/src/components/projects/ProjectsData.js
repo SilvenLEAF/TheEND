@@ -6,7 +6,7 @@ export default [
     
     links: {
       live: "https://SilvenLeafGamifyHouseWorks.herokuapp.com",
-      sourceCode: "https://github.com/SilvenLEAF/GamifyHouseWorksAPP"
+      sourceCode: "https://github.com/SilvenLEAF/GamifyHouseWorks"
     },
 
     images: {
