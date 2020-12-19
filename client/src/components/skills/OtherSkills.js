@@ -25,10 +25,10 @@ function OtherSkills() {
           <img src="/images/skills/powershell.svg" alt="CLI"/>
           CLI
         </li>
-        {/* <li>
-          <img src="/images/skills/chartjs.svg" alt="ChartJS"/>
-          ChartJS
-        </li>         */}
+        <li>
+          <img src="/images/skills/mongodb.svg" alt=""/>
+          CRUD
+        </li>
         <li>
           <img src="/images/skills/pwa.png" alt="PWA"/>
           PWA
