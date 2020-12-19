@@ -21,10 +21,10 @@ function FrontendSkills() {
           <img src="/images/skills/javascript.svg" alt=""/>
           JavaScript
         </li>
-        {/* <li>
+        <li>
           <img src="/images/skills/typescript.svg" alt=""/>
           TypeScript
-        </li> */}
+        </li>
         <li>
           <img src="/images/skills/react.svg" alt=""/>
           React

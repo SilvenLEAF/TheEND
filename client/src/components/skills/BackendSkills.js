@@ -14,6 +14,10 @@ function BackendSkills() {
           NodeJS
         </li>
         <li>
+          <img src="/images/skills/typescript.svg" alt=""/>
+          TypeScript
+        </li>
+        <li>
           <img src="/images/skills/express.svg" alt=""/>
           ExpressJS
         </li>

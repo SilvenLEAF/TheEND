@@ -15,7 +15,7 @@ export default [
     },
 
 
-    technology: [ "NodeJS", "ExpressJS", "MongoDB", "REST Api", "OAUTH2.0", "PassportJS", "Nodemailer", "Crypto module", "React", "Materialize", "SASS", "Hooks and Context API", "ServiceWorkers(PWA)", "Lighthouse Audit", "git", "CLI", "Chrome-Dev-Tools" ],
+    technology: [ "TypeScript", "NodeJS", "ExpressJS", "MongoDB", "REST Api", "OAUTH2.0", "PassportJS", "Nodemailer", "Crypto module", "React", "Materialize", "SASS", "Hooks and Context API", "ServiceWorkers(PWA)", "Lighthouse Audit", "git", "CLI", "Chrome-Dev-Tools" ],
 
 
 
@@ -48,7 +48,7 @@ export default [
     },
 
 
-    technology: [ "NodeJS", "ExpressJS", "MongoDB", "REST Api", "OAUTH2.0", "PassportJS", "Nodemailer", "Crypto module", "React", "Materialize", "SASS", "Hooks and Context API", "ServiceWorkers(PWA)", "Lighthouse Audit", "git", "CLI", "Chrome-Dev-Tools" ],
+    technology: [ "TypeScript", "NodeJS", "ExpressJS", "MongoDB", "REST Api", "OAUTH2.0", "PassportJS", "Nodemailer", "Crypto module", "React", "Materialize", "SASS", "Hooks and Context API", "ServiceWorkers(PWA)", "Lighthouse Audit", "git", "CLI", "Chrome-Dev-Tools" ],
 
 
 
@@ -84,7 +84,7 @@ export default [
     },
 
 
-    technology: ["OAUTH2.0", "NodeJS", "ExpressJS", "MongoDB", "REST Api", "PassportJS", "React", "Materialize", "SASS", "Hooks and Context API", "DNS Module", "ServiceWorkers(PWA)", "Lighthouse Audit", "git", "CLI", "Chrome-Dev-Tools" ],
+    technology: ["TypeScript", "NodeJS", "ExpressJS", "MongoDB", "REST Api", "OAUTH2.0", "PassportJS", "React", "Materialize", "SASS", "Hooks and Context API", "DNS Module", "ServiceWorkers(PWA)", "Lighthouse Audit", "git", "CLI", "Chrome-Dev-Tools" ],
 
 
 
