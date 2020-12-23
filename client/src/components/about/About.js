@@ -49,6 +49,14 @@ function About() {
         
         
         <div className="myAboutQA">
+          <div className="myAboutTitle">Languages</div>
+          <div className="myAboutAnswer">English, Chinese, Japanese, Hindi, Bengali</div>
+        </div>
+
+
+
+        
+        <div className="myAboutQA">
           <div className="myAboutTitle">Hobbies</div>
           <div className="myAboutAnswer">Coding, Learning Chinese/Japanese, Creating, Problem Solving</div>
         </div>

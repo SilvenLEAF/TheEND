@@ -1,7 +1,37 @@
 export default [
   
   {
-    title: "GamifyHouseWorksAPP",
+    title: "MyMovieList",
+    
+    
+    links: {
+      live: "https://SilvenLeafMyMovieList.herokuapp.com",
+      sourceCode: "https://github.com/SilvenLEAF/MyMovieList"
+    },
+
+    images: {
+      image3d: "/images/projects/MyMovieList3d.png",
+      image2d: "/images/projects/MyMovieList2d.png"
+    },
+
+
+    technology: [ "TypeScript", "NodeJS", "ExpressJS", "MongoDB", "REST Api", "OAUTH2.0", "PassportJS", "Nodemailer", "Crypto module", "TMDB Api", "React", "Materialize", "SASS", "Hooks and Context API", "ServiceWorkers(PWA)", "Lighthouse Audit", "git", "CLI", "Chrome-Dev-Tools" ],
+
+
+
+    description: "Find info of any movie, get similar movies, trending now and top movies, add them to your watchlist, like them, and many many more. Create your own MovieList.",
+  },
+
+
+
+
+
+
+
+
+
+  {
+    title: "GamifyHouseWorks",
     
     
     links: {

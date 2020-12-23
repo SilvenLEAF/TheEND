@@ -12,8 +12,12 @@ export default [
     link: "#URLShortener",
     image: "/images/projects/URLShortener2d.png",
   },{
-    name: "GamifyHouseWorksAPP",
-    link: "#GamifyHouseWorksAPP",
+    name: "MyMovieList",
+    link: "#MyMovieList",
+    image: "/images/projects/MyMovieList2d.png",
+  },{
+    name: "GamifyHouseWorks",
+    link: "#GamifyHouseWorks",
     image: "/images/projects/GamifyHouseWorks2d.png",
   },{
     name: "MusicAPP",
