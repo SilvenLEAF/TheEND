@@ -10,7 +10,7 @@ function About() {
       <div className="myAboutInfoHolder">
 
         <p className="myAboutParagraph" >
-          Hi there! I'm SilvenLEAF and I love to code a lot. I love starting my day on 4.00am with coding, when the whole world is half asleep. I also love to learn Chinese and Japanese. I'm a big fan of tech and SUPER BIG FAN of Chinese Sweet FLUFFY ROMANCE DRAMAS.  I'm scared of snakes and coackroaches, but I LOVE animals a lot. I love listening to JPOP. Favorite singer Kenshi Younezu. Favorite color is Red. Favorite hobby Coding.
+          Hi there! I'm SilvenLEAF and I love to code a lot. I love starting my day on 4.00am with coding, when the whole world is half asleep. I also love to learn Chinese and Japanese. I'm a big fan of tech and SUPER BIG FAN of Chinese Sweet FLUFFY ROMANCE DRAMAS.  I'm scared of snakes, but I LOVE animals a lot. I love listening to JPOP. Favorite singer Kenshi Younezu. Favorite color is Red. Favorite hobby Coding. Favorite song is "Peace Sign (Kenshi Younezu)".
         </p>
 
         <div className="myAboutQA">
