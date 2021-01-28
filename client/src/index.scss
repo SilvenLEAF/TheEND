@@ -48,6 +48,31 @@ body{
 
 
 
+/* ---------------------------
+.           SCROLL
+--------------------------- */
+body::-webkit-scrollbar {
+  // width: 0.25rem;
+  width: 0.5rem;
+}
+
+body::-webkit-scrollbar-track {
+  background: #1e1e24;  
+}
+
+body::-webkit-scrollbar-thumb {
+  background: #f00;    
+  border-radius: 30px;
+}
+
+
+
+
+
+
+
+
+
 
 
 .myThemeColorText {
@@ -74,26 +99,33 @@ body{
 
 
 
-
-.nav.nav-wrapper, #myFooter{
+#myFooter{
   background-color: $themeColor;  
 }
 
 
 .nav.nav-wrapper {
+  background-color: #fff;  
+
   font-family: Dosis, sans-serif;
   font-weight: 500;
 
   .myProfileNavIcon{
     background-color: $bodyBG;
+    
+    
     color: $themeColor;
     font-family: Dosis;
     font-weight: 700;
     font-size: 170%;
     
-  }
 
+    
+    
+  }
+  
   .brand-logo{
+    color: $themeColor;
     font-size: 270%;
     font-family: Aladin, Dosis, sans-serif;
 
@@ -103,6 +135,7 @@ body{
   }
   
   ul.hide-on-med-and-down li a {
+    color: $themeColor;
     font-size: 100%;
     font-weight: 500;
     font-family: Roboto, sans-serif;
