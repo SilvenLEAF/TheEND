@@ -37,7 +37,7 @@ function Navbar() {
 
 
 
-        <ul className="right hide-on-med-and-down">
+        <ul className="PCNav right hide-on-med-and-down">
           <li><a href="#mySkills">Skills</a></li>
           <li><a href="#myProjects">Works</a></li>           
           <li><a href="#experienceSection">Experience</a></li>           

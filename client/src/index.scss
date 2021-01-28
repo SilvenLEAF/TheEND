@@ -146,12 +146,28 @@ body::-webkit-scrollbar-thumb {
     font-size: 150%;
   }
 }
-nav ul li:hover {
-  background-color: rgba($color: $themeColor, $alpha: 0.3);
+
+nav ul.PCNav li  {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  &:hover a {
+    display: block;
+    height: 55px;
+    background-color: rgba($color: $themeColor, $alpha: 0.3);
+    
+    background-color: #fff;
+    border-bottom: 3px solid $themeColor;  
+  }
+}
+
+nav ul.sidenav li:hover  a {  
+  background-color: rgba($color: $themeColor, $alpha: 0.3);  
 }
 
 ul.sidenav {
-  background-color: $bodyBG;
+  background-color: $bodyBG;  
 
   
   li {
