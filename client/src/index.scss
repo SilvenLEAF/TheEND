@@ -105,7 +105,8 @@ body::-webkit-scrollbar-thumb {
 
 
 .nav.nav-wrapper {
-  background-color: #fff;  
+  background-color: #fff;
+  box-shadow: none;  
 
   font-family: Dosis, sans-serif;
   font-weight: 500;
@@ -176,7 +177,7 @@ ul.sidenav {
   position: relative;
   // top: 10px;
   cursor: pointer;
-  color:#fff;
+  color: $themeColor;
   i{
     margin: 0;
     // font-size: 200%;
