@@ -44,7 +44,7 @@ function Home() {
       
       
       <div className="container myHomeSectionTitleHolder">        
-        <div className="myHomeSectionTitle">Skills</div>
+        <div className="myHomeSectionTitle">$kills</div>
       </div>
       <Skills/>
 
@@ -54,7 +54,7 @@ function Home() {
 
 
       <div className="container myHomeSectionTitleHolder">        
-        <div className="myHomeSectionTitle">My Works</div>
+        <div className="myHomeSectionTitle">爪y Works</div>
       </div>
       <Projects/>
 
@@ -62,7 +62,7 @@ function Home() {
 
 
       <div id="experienceSection" className="scrollspy container myHomeSectionTitleHolder myContactMeTitleHolder" style={{ marginBottom: "0px" }} >
-        <div className="myHomeSectionTitle">Experience</div>
+        <div className="myHomeSectionTitle">Xperience</div>
       </div>
 
       <p className="myExperienceParagraph container" style={{ marginBottom: "50px" }} >
@@ -72,7 +72,7 @@ function Home() {
       
       
       <div className="container myHomeSectionTitleHolder myContactMeTitleHolder">        
-        <div className="myHomeSectionTitle">Contact Me</div>
+        <div className="myHomeSectionTitle">Kontact Me</div>
       </div>
       <Contact/>
       <MobileContact/>
@@ -82,7 +82,7 @@ function Home() {
 
 
       <div className="container myHomeSectionTitleHolder">        
-        <div className="myHomeSectionTitle">About Me</div>
+        <div className="myHomeSectionTitle">@bout Me</div>
       </div>
       <About/>
 
