@@ -24,7 +24,7 @@
     font-weight: 800;
     font-family: Dosis;
     font-size: 150%;
-    color: #f00;
+    color: $themeColor;
     
     
     @include mQ(800px){    
