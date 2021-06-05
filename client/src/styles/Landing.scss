@@ -17,6 +17,20 @@
   
   
     background: url("/SilvenLEAF.png") center/cover;
+    position: relative;
+    border: 17px solid $bodyBG;
+
+    &::before {
+      position: absolute;
+      transform: scale(1.07) translate3d(45px, -45px, 0px);
+      background-color: rgba($color: $themeColor, $alpha: 1);
+
+      z-index: -1;
+      content: "";
+      width: 100%;
+      height: 100%;
+      border-radius: 19%;
+    }
   }
   
   
